@@ -1,0 +1,11 @@
+C:\Everton\Rust\nucleo-h743zi\target\thumbv7em-none-eabihf\debug\deps\libbitflags-b2e113491ab9d554.rmeta: C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\lib.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\iter.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\parser.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\traits.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\public.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\internal.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\external.rs
+
+C:\Everton\Rust\nucleo-h743zi\target\thumbv7em-none-eabihf\debug\deps\bitflags-b2e113491ab9d554.d: C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\lib.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\iter.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\parser.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\traits.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\public.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\internal.rs C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\external.rs
+
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\lib.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\iter.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\parser.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\traits.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\public.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\internal.rs:
+C:\Users\Halmiton\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.3.1\src\external.rs:

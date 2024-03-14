@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Everton\Rust\nucleo-h743zi\target\thumbv7em-none-eabihf\release\build\stm32h7-bc833220d0909934\out
+cargo:rerun-if-changed=src/stm32h743v/device.x
+cargo:rerun-if-changed=build.rs
